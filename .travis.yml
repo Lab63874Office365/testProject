@@ -1,2 +1,2 @@
 notifications:
-webhooks: https://outlook.office.com/webhook/eb84286c-83d3-4433-a354-2533b3cc0ebe@31ea0810-2a7d-4dc3-9b61-b9878a49a059/TravisCI/c1b1a0817b274e96bb86c1fd3747f68a/b2e62021-0abf-4f90-9a30-7988f099df73
+webhooks: http://requestbin.fullcontact.com/1fw5arg1
